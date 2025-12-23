@@ -104,6 +104,35 @@ git clone https://github.com/Ingridxisto/NightfallQuest
 
 ---
 
+## 🎨 Créditos de Assets
+
+Os assets gráficos e sonoros utilizados neste projeto foram obtidos
+a partir de bibliotecas gratuitas, exclusivamente para fins acadêmicos.
+
+### Fontes utilizadas
+- https://itch.io
+- https://f1xtach.itch.io/pixel-art-portal
+- https://opengameart.org
+- https://opengameart.org/content/classical-ruin-tiles-0
+- https://opengameart.org/content/rock-tileset?utm_source=chatgpt.com
+- https://opengameart.org/content/free-volcano-platform-tileset?utm_source=chatgpt.com
+- https://opengameart.org/content/cave-tileset-0
+- https://opengameart.org/content/undeadempire-tileset-64x64-repack-floor-lava-walls-and-effects
+- https://opengameart.org/content/shadow-man-eating-plant-sprites?utm_source=chatgpt.com
+- https://luizmelo.itch.io/fire-worm
+- https://opengameart.org/content/spooky-castle-tileset?utm_source=chatgpt.com
+- https://pixel-1992.itch.io/vampus-castle-free-pixel-art-side-scroller-background?utm_source=chatgpt.com
+- https://clembod.itch.io/warrior-free-animation-set
+- https://craftpix.net
+- https://pixabay.com
+- https://pixabay.com/pt/sound-effects/search/ancient%20temple%20ambient/
+
+> Observação: Alguns assets foram baixados anteriormente e não foi possível
+identificar a fonte exata de todos eles. Todos os materiais utilizados são
+gratuitos e destinados a projetos educacionais.
+
+---
+
 ## Autora
 Ingrid Xisto
 Curso: Análise e Desenvolvimento de Sistemas - UNIFECAF
