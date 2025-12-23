@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 1a03af7aaca871e4ba951c25fac54918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 92649129174437396
+    second: New ruin tiles_0
+  - first:
+      213: -6032786442767922612
+    second: New ruin tiles_1
+  - first:
+      213: 9095355004407432183
+    second: New ruin tiles_2
+  - first:
+      213: -8134759367778269906
+    second: New ruin tiles_3
+  - first:
+      213: 2703641551458558935
+    second: New ruin tiles_4
+  - first:
+      213: 8598671242484989198
+    second: New ruin tiles_5
+  - first:
+      213: -6029744427989486464
+    second: New ruin tiles_6
+  - first:
+      213: -4088974102407308239
+    second: New ruin tiles_7
+  - first:
+      213: 5581116356274884385
+    second: New ruin tiles_8
+  - first:
+      213: 5855907781596272230
+    second: New ruin tiles_9
+  - first:
+      213: 5154422000250044969
+    second: New ruin tiles_10
+  - first:
+      213: -1150219210160221613
+    second: New ruin tiles_11
+  - first:
+      213: 6859326034675688374
+    second: New ruin tiles_12
+  - first:
+      213: 7659507026566409655
+    second: New ruin tiles_13
+  - first:
+      213: -2753354419453929806
+    second: New ruin tiles_14
+  - first:
+      213: -2479894311940136644
+    second: New ruin tiles_15
+  - first:
+      213: 5532260180699017545
+    second: New ruin tiles_16
+  - first:
+      213: -791761983549549012
+    second: New ruin tiles_17
+  - first:
+      213: -5499798826293666267
+    second: New ruin tiles_18
+  - first:
+      213: 9088290978431657958
+    second: New ruin tiles_19
+  - first:
+      213: -1293683408311396761
+    second: New ruin tiles_20
+  - first:
+      213: 4991172873163975708
+    second: New ruin tiles_21
+  - first:
+      213: 5414476237557019639
+    second: New ruin tiles_22
+  - first:
+      213: -6671123369447700278
+    second: New ruin tiles_23
+  - first:
+      213: 7497955706489824506
+    second: New ruin tiles_24
+  - first:
+      213: 3904216208957212882
+    second: New ruin tiles_25
+  - first:
+      213: -3050188896621595849
+    second: New ruin tiles_26
+  - first:
+      213: -7855600803354320692
+    second: New ruin tiles_27
+  - first:
+      213: -8473764906202486831
+    second: New ruin tiles_28
+  - first:
+      213: -7503090651561096705
+    second: New ruin tiles_29
+  - first:
+      213: 3987616781773425369
+    second: New ruin tiles_30
+  - first:
+      213: -6721728917000658653
+    second: New ruin tiles_31
+  - first:
+      213: 1280507640789162689
+    second: New ruin tiles_32
+  - first:
+      213: -6614450360114893112
+    second: New ruin tiles_33
+  - first:
+      213: 1956911080827807450
+    second: New ruin tiles_34
+  - first:
+      213: 2641346625433666914
+    second: New ruin tiles_35
+  - first:
+      213: 3066842746768002504
+    second: New ruin tiles_36
+  - first:
+      213: -8934529018228406747
+    second: New ruin tiles_37
+  - first:
+      213: 6570771420236092003
+    second: New ruin tiles_38
+  - first:
+      213: 3494364155026334058
+    second: New ruin tiles_39
+  - first:
+      213: 7991745503501047930
+    second: New ruin tiles_40
+  - first:
+      213: -5841979062444914752
+    second: New ruin tiles_41
+  - first:
+      213: 5296709739456170399
+    second: New ruin tiles_42
+  - first:
+      213: 7678715691257205663
+    second: New ruin tiles_43
+  - first:
+      213: 8035206176567836146
+    second: New ruin tiles_44
+  - first:
+      213: -8164890272279074819
+    second: New ruin tiles_45
+  - first:
+      213: 8960266799640268953
+    second: New ruin tiles_46
+  - first:
+      213: 7303803250050649053
+    second: New ruin tiles_47
+  - first:
+      213: -8493211066727546991
+    second: New ruin tiles_48
+  - first:
+      213: -4585509484250405439
+    second: New ruin tiles_49
+  - first:
+      213: -6057923541579200388
+    second: New ruin tiles_50
+  - first:
+      213: -7658341465898445383
+    second: New ruin tiles_51
+  - first:
+      213: -507455753599689826
+    second: New ruin tiles_52
+  - first:
+      213: 2783701886858356744
+    second: New ruin tiles_53
+  - first:
+      213: 3746039586081314682
+    second: New ruin tiles_54
+  - first:
+      213: -5172613559293665892
+    second: New ruin tiles_55
+  - first:
+      213: 4138868226341830815
+    second: New ruin tiles_56
+  - first:
+      213: 168572129859031345
+    second: New ruin tiles_57
+  - first:
+      213: 3916580964453162798
+    second: New ruin tiles_58
+  - first:
+      213: 2336807559723767436
+    second: New ruin tiles_59
+  - first:
+      213: 6871723263130025074
+    second: New ruin tiles_60
+  - first:
+      213: 7780270790997080894
+    second: New ruin tiles_61
+  - first:
+      213: -8592078439589955251
+    second: New ruin tiles_62
+  - first:
+      213: -6578132069456472250
+    second: New ruin tiles_63
+  - first:
+      213: -1324273498802183383
+    second: New ruin tiles_64
+  - first:
+      213: -5796847384736349583
+    second: New ruin tiles_65
+  - first:
+      213: 4042756805132788635
+    second: New ruin tiles_66
+  - first:
+      213: -3126527056010155127
+    second: New ruin tiles_67
+  - first:
+      213: 1342367724143699603
+    second: New ruin tiles_68
+  - first:
+      213: -8973175223491536029
+    second: New ruin tiles_69
+  - first:
+      213: 2330896994981267639
+    second: New ruin tiles_70
+  - first:
+      213: -8176530783323701056
+    second: New ruin tiles_71
+  - first:
+      213: 5085433873778003463
+    second: New ruin tiles_72
+  - first:
+      213: -3271041072041099913
+    second: New ruin tiles_73
+  - first:
+      213: 412326772186932391
+    second: New ruin tiles_74
+  - first:
+      213: -2086026873653305483
+    second: New ruin tiles_75
+  - first:
+      213: 5775071532912862124
+    second: New ruin tiles_76
+  - first:
+      213: 1813578744771852016
+    second: New ruin tiles_77
+  - first:
+      213: 320150225532107483
+    second: New ruin tiles_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New ruin tiles_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1026
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e013164e7294100800000000000000
+      internalID: 92649129174437396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1026
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a860181bc374ca0800000000000000
+      internalID: -6032786442767922612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 962
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3c6cfef21393e70800000000000000
+      internalID: 9095355004407432183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 898
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e258b4e64778b1f80800000000000000
+      internalID: -8134759367778269906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1026
+        width: 322
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d36ca2aaa3458520800000000000000
+      internalID: 2703641551458558935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 937
+        width: 318
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d3fa4ffed945770800000000000000
+      internalID: 8598671242484989198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 937
+        width: 121
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084bb43c36b025ca0800000000000000
+      internalID: -6029744427989486464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 959
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c9d3ad7bb0147c0800000000000000
+      internalID: -4088974102407308239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 958
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f03e981cb147d40800000000000000
+      internalID: 5581116356274884385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 892
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666dd77f91d544150800000000000000
+      internalID: 5855907781596272230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 893
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922cc5bff7f288740800000000000000
+      internalID: 5154422000250044969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 891
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352d194f8b99900f0800000000000000
+      internalID: -1150219210160221613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 763
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3ee6fafa8313f50800000000000000
+      internalID: 6859326034675688374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 764
+        width: 581
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd69111f090c4a60800000000000000
+      internalID: 7659507026566409655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b652bf4ebe1ac9d0800000000000000
+      internalID: -2753354419453929806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31eb482345a59dd0800000000000000
+      internalID: -2479894311940136644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9417a9bb25986cc40800000000000000
+      internalID: 5532260180699017545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26dedfbba81305f0800000000000000
+      internalID: -791761983549549012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 629
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed7ae4b1acca3b0800000000000000
+      internalID: -5499798826293666267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 629
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e76ec83e78102e70800000000000000
+      internalID: 9088290978431657958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 629
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76658cb5bc9eb0ee0800000000000000
+      internalID: -1293683408311396761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 629
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c2185a845344540800000000000000
+      internalID: 4991172873163975708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_22
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 629
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f331607375142b40800000000000000
+      internalID: 5414476237557019639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_23
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 629
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8434ff3a86b63a0800000000000000
+      internalID: -6671123369447700278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_24
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 683
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af460fa3df61e0860800000000000000
+      internalID: 7497955706489824506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_25
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 684
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d88735e4ff8e2630800000000000000
+      internalID: 3904216208957212882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 496
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733770feb5d8ba5d0800000000000000
+      internalID: -3050188896621595849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 496
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0eacaa0bc4bf290800000000000000
+      internalID: -7855600803354320692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 496
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d721a7b6b3276a80800000000000000
+      internalID: -8473764906202486831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 496
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff985243ecaafd790800000000000000
+      internalID: -7503090651561096705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 496
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dacdf1f55cd65730800000000000000
+      internalID: 3987616781773425369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_31
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 610
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32164b9c92f97b2a0800000000000000
+      internalID: -6721728917000658653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_32
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 610
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca59653ae645c110800000000000000
+      internalID: 1280507640789162689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_33
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 610
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cea5ec3170c434a0800000000000000
+      internalID: -6614450360114893112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_34
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 427
+        width: 54
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad664c58248582b10800000000000000
+      internalID: 1956911080827807450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_35
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 428
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26586a9e2c2f7a420800000000000000
+      internalID: 2641346625433666914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_36
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 497
+        width: 130
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd0717ba3d9f8a20800000000000000
+      internalID: 3066842746768002504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_37
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 497
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268311f13d220480800000000000000
+      internalID: -8934529018228406747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_38
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 497
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36216731bc1103b50800000000000000
+      internalID: 6570771420236092003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 427
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61e3306fa97e7030800000000000000
+      internalID: 3494364155026334058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 427
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78518f713268ee60800000000000000
+      internalID: 7991745503501047930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 427
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c783bdaefe1deea0800000000000000
+      internalID: -5841979062444914752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 427
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9903a2e171b18940800000000000000
+      internalID: 5296709739456170399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_43
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 427
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f939a94dc37409a60800000000000000
+      internalID: 7678715691257205663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 357
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb95bf179c28f60800000000000000
+      internalID: 8035206176567836146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 357
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df763ca8e8b70be80800000000000000
+      internalID: -8164890272279074819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 357
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d8454e23495c70800000000000000
+      internalID: 8960266799640268953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_47
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 357
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbcc94db525c5560800000000000000
+      internalID: 7303803250050649053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_48
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 357
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fb945a88d022a80800000000000000
+      internalID: -8493211066727546991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 357
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5e11d4b6ffc50c0800000000000000
+      internalID: -4585509484250405439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_50
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 361
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7802bb92aeedeba0800000000000000
+      internalID: -6057923541579200388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_51
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 292
+        width: 261
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b59a7c230b18b590800000000000000
+      internalID: -7658341465898445383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_52
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 321
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b56734ea725f8f0800000000000000
+      internalID: -507455753599689826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 321
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808e6ce0e12b1a620800000000000000
+      internalID: 2783701886858356744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 321
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a779deaf72b9cf330800000000000000
+      internalID: 3746039586081314682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 321
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d9eed9f5f2738b0800000000000000
+      internalID: -5172613559293665892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 321
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90814329b6307930800000000000000
+      internalID: 4138868226341830815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 321
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131574f7573e65200800000000000000
+      internalID: 168572129859031345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_58
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 329
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f9940e2ad7a5630800000000000000
+      internalID: 3916580964453162798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_59
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 261
+        width: 327
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8658c938120e6020800000000000000
+      internalID: 2336807559723767436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 285
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c37ad56e34d5f50800000000000000
+      internalID: 6871723263130025074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 285
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7ab1101319fb60800000000000000
+      internalID: 7780270790997080894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 285
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49b2f59e2ec2c880800000000000000
+      internalID: -8592078439589955251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 285
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647117a3cb7c5b4a0800000000000000
+      internalID: -6578132069456472250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_64
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 285
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923ae66e44c3f9de0800000000000000
+      internalID: -1324273498802183383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 285
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17243af34067d8fa0800000000000000
+      internalID: -5796847384736349583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_66
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 24
+        width: 76
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93ab3315e1ca1830800000000000000
+      internalID: 4042756805132788635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 24
+        width: 66
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bedd525385c94d0800000000000000
+      internalID: -3126527056010155127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_68
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 66
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e88b355c01a210800000000000000
+      internalID: 1342367724143699603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_69
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 24
+        width: 66
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b53781da0e87380800000000000000
+      internalID: -8973175223491536029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_70
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 24
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b842e1a772095020800000000000000
+      internalID: 2330896994981267639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_71
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 24
+        width: 77
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c1fcd290278e80800000000000000
+      internalID: -8176530783323701056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_72
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 24
+        width: 67
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec6471a27139640800000000000000
+      internalID: 5085433873778003463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_73
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 130
+        width: 323
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df647c97dea92d0800000000000000
+      internalID: -3271041072041099913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_74
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 85
+        width: 263
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e593c301e8b500800000000000000
+      internalID: 412326772186932391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 24
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fd9f35c91fc03e0800000000000000
+      internalID: -2086026873653305483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_76
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 24
+        width: 112
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3edb726fc252050800000000000000
+      internalID: 5775071532912862124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 24
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6335672402b2910800000000000000
+      internalID: 1813578744771852016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New ruin tiles_78
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 24
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda3a931fe6617400800000000000000
+      internalID: 320150225532107483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      New ruin tiles_0: 92649129174437396
+      New ruin tiles_1: -6032786442767922612
+      New ruin tiles_10: 5154422000250044969
+      New ruin tiles_11: -1150219210160221613
+      New ruin tiles_12: 6859326034675688374
+      New ruin tiles_13: 7659507026566409655
+      New ruin tiles_14: -2753354419453929806
+      New ruin tiles_15: -2479894311940136644
+      New ruin tiles_16: 5532260180699017545
+      New ruin tiles_17: -791761983549549012
+      New ruin tiles_18: -5499798826293666267
+      New ruin tiles_19: 9088290978431657958
+      New ruin tiles_2: 9095355004407432183
+      New ruin tiles_20: -1293683408311396761
+      New ruin tiles_21: 4991172873163975708
+      New ruin tiles_22: 5414476237557019639
+      New ruin tiles_23: -6671123369447700278
+      New ruin tiles_24: 7497955706489824506
+      New ruin tiles_25: 3904216208957212882
+      New ruin tiles_26: -3050188896621595849
+      New ruin tiles_27: -7855600803354320692
+      New ruin tiles_28: -8473764906202486831
+      New ruin tiles_29: -7503090651561096705
+      New ruin tiles_3: -8134759367778269906
+      New ruin tiles_30: 3987616781773425369
+      New ruin tiles_31: -6721728917000658653
+      New ruin tiles_32: 1280507640789162689
+      New ruin tiles_33: -6614450360114893112
+      New ruin tiles_34: 1956911080827807450
+      New ruin tiles_35: 2641346625433666914
+      New ruin tiles_36: 3066842746768002504
+      New ruin tiles_37: -8934529018228406747
+      New ruin tiles_38: 6570771420236092003
+      New ruin tiles_39: 3494364155026334058
+      New ruin tiles_4: 2703641551458558935
+      New ruin tiles_40: 7991745503501047930
+      New ruin tiles_41: -5841979062444914752
+      New ruin tiles_42: 5296709739456170399
+      New ruin tiles_43: 7678715691257205663
+      New ruin tiles_44: 8035206176567836146
+      New ruin tiles_45: -8164890272279074819
+      New ruin tiles_46: 8960266799640268953
+      New ruin tiles_47: 7303803250050649053
+      New ruin tiles_48: -8493211066727546991
+      New ruin tiles_49: -4585509484250405439
+      New ruin tiles_5: 8598671242484989198
+      New ruin tiles_50: -6057923541579200388
+      New ruin tiles_51: -7658341465898445383
+      New ruin tiles_52: -507455753599689826
+      New ruin tiles_53: 2783701886858356744
+      New ruin tiles_54: 3746039586081314682
+      New ruin tiles_55: -5172613559293665892
+      New ruin tiles_56: 4138868226341830815
+      New ruin tiles_57: 168572129859031345
+      New ruin tiles_58: 3916580964453162798
+      New ruin tiles_59: 2336807559723767436
+      New ruin tiles_6: -6029744427989486464
+      New ruin tiles_60: 6871723263130025074
+      New ruin tiles_61: 7780270790997080894
+      New ruin tiles_62: -8592078439589955251
+      New ruin tiles_63: -6578132069456472250
+      New ruin tiles_64: -1324273498802183383
+      New ruin tiles_65: -5796847384736349583
+      New ruin tiles_66: 4042756805132788635
+      New ruin tiles_67: -3126527056010155127
+      New ruin tiles_68: 1342367724143699603
+      New ruin tiles_69: -8973175223491536029
+      New ruin tiles_7: -4088974102407308239
+      New ruin tiles_70: 2330896994981267639
+      New ruin tiles_71: -8176530783323701056
+      New ruin tiles_72: 5085433873778003463
+      New ruin tiles_73: -3271041072041099913
+      New ruin tiles_74: 412326772186932391
+      New ruin tiles_75: -2086026873653305483
+      New ruin tiles_76: 5775071532912862124
+      New ruin tiles_77: 1813578744771852016
+      New ruin tiles_78: 320150225532107483
+      New ruin tiles_8: 5581116356274884385
+      New ruin tiles_9: 5855907781596272230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
